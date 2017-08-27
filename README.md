@@ -5,7 +5,7 @@
 
 ## Sample Test
 
-{
-  testString
-  hello_world
-}
+    {
+      testString
+      hello_world
+    }
